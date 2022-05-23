@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "978369017174",
+    "project_id": "beatboard-111e2",
+    "storage_bucket": "beatboard-111e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978369017174:android:cf24f931130a1d7634d2f7",
+        "android_client_info": {
+          "package_name": "pl.juliankominiak.beatboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978369017174-ft1gu7rguln4c9aenqeacpnoukupiphu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pl.juliankominiak.beatboard",
+            "certificate_hash": "6ebb57d8389a5f2ea9171b5c6839d063bb672129"
+          }
+        },
+        {
+          "client_id": "978369017174-9tbrmaf82l7eqfjl3nj6jk88uaellbfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmBPM-AnmRX-GB5iiELsPBPIhFMIpGPZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978369017174-9tbrmaf82l7eqfjl3nj6jk88uaellbfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
